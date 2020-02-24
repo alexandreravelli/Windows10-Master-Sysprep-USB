@@ -7,4 +7,4 @@
 - ``` Password : cgRhjtNGaKxjqQ ```
 
 3 - Rename the computer and add the label
-Exemple : FRL76567
+- ``` Exemple : FRL76567
