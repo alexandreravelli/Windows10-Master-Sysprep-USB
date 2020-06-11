@@ -28,7 +28,7 @@ Prerequisite :
 
 ![7](https://user-images.githubusercontent.com/22911613/84355106-5669c980-abc2-11ea-97a2-74a4f6a6845a.jpg)
 
-> https://github.com/alexandreravelli/lush-windows10/blob/master/unattend.xml
+<a class="github-button" href="https://github.com/alexandreravelli/Windows10-Master-Sysprep-USB/archive/master.zip" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download alexandreravelli/Windows10-Master-Sysprep-USB on GitHub">Download unattend.xml </a>
 
 - Put unattend.xml to C:\Windows\System32\Sysprep
 
@@ -60,6 +60,3 @@ Prerequisite :
 ![12](https://user-images.githubusercontent.com/22911613/84361679-4ce55f00-abcc-11ea-8318-642d11987b65.jpg)
 
 - Copy install.wim to your USB drive - E:\sources
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/alexandreravelli/Windows10-Master-Sysprep-USB/archive/master.zip" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download alexandreravelli/Windows10-Master-Sysprep-USB on GitHub">Download</a>
