@@ -30,7 +30,7 @@ Prerequisite :
 
 ![7](https://user-images.githubusercontent.com/22911613/84355106-5669c980-abc2-11ea-97a2-74a4f6a6845a.jpg)
 
-https://github.com/alexandreravelli/lush-windows10/blob/master/unattend.xml
+> https://github.com/alexandreravelli/lush-windows10/blob/master/unattend.xml
 
 - Put unattend.xml to C:\Windows\System32\Sysprep
 
