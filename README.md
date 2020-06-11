@@ -1,4 +1,4 @@
-# Windows 10 Master - Sysprep 🦾
+# Windows 10 Master - Sysprep - USB 🦾
 
 Windows 10 Sysprep - LUSH
 
