@@ -51,7 +51,7 @@ https://github.com/alexandreravelli/lush-windows10/blob/master/unattend.xml
 
 ![12](https://user-images.githubusercontent.com/22911613/84359154-84520c80-abc8-11ea-8e9f-4fb53ef5ddc9.jpg)
 
-**/// 4 - Windows 10 To USB ///**
+**/// 4 - Windows 10 To USB with .wim ///**
 
 - Use RUFUS to copy windows10 ISO to USB - Format to NTFS
 - If you select a Windows installation ISO, set the partition scheme to GPT partition scheme for UEFI computers and also set the file system to NTFS, Rufus will add everything required to allow booting NTFS partition from an UEFI system.
