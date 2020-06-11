@@ -42,4 +42,5 @@ Put unattend.xml to C:\Windows\System32\Sysprep
 
 ![12](https://user-images.githubusercontent.com/22911613/84359154-84520c80-abc8-11ea-8e9f-4fb53ef5ddc9.jpg)
 
+![13](https://user-images.githubusercontent.com/22911613/84360478-6be2f180-abca-11ea-96dc-21e30a98730a.jpg)
 
