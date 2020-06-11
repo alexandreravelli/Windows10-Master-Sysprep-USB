@@ -48,7 +48,7 @@ https://github.com/alexandreravelli/lush-windows10/blob/master/unattend.xml
 
 ![11](https://user-images.githubusercontent.com/22911613/84358253-2b35a900-abc7-11ea-8d9d-8e11cd809d94.jpg)
 
-.wim
+.wim file location
 
 ![12](https://user-images.githubusercontent.com/22911613/84359154-84520c80-abc8-11ea-8e9f-4fb53ef5ddc9.jpg)
 
