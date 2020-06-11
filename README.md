@@ -57,6 +57,8 @@ Use RUFUS to copy windows10 ISO to USB - Format to NTFS
 
 ![13](https://user-images.githubusercontent.com/22911613/84360478-6be2f180-abca-11ea-96dc-21e30a98730a.jpg)
 
+Copy install.wim to E:\sources
+
 ![12](https://user-images.githubusercontent.com/22911613/84361679-4ce55f00-abcc-11ea-8318-642d11987b65.jpg)
 
 
