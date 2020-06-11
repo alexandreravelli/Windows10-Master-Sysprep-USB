@@ -14,3 +14,10 @@ Install Windows 10 on a new computer - LUSH
 - ``` Set-ExecutionPolicy AllSigned ```
 - ``` Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')) ```
 - ``` choco install adobereader choco install googlechrome choco install 7zip.install choco install vlc choco install slack choco install bitwarden choco install google-backup-and-sync choco install spotify ```
+
+
+**///  3 - - Sysprep - oobe  ///**
+
+- ``` sysprep.exe /oobe ```
+
+![3](https://user-images.githubusercontent.com/22911613/84350798-4cdc6380-abba-11ea-9524-2fc6f152a70e.jpg)
