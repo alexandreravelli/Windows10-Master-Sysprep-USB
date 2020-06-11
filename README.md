@@ -5,7 +5,7 @@ Windows 10 Sysprep - LUSH
 **///  1 - Sysprep - Audit ///**
 - ``` sysprep.exe /audit ```
 
-![1](https://user-images.githubusercontent.com/22911613/84348777-1866a880-abb6-11ea-9856-f5bd5325f79c.jpg)
+![5](https://user-images.githubusercontent.com/22911613/84352420-967a7d80-abbd-11ea-9540-a5a422b6fcbb.jpg)
 
 **///  2 - Install Multiple Softwares  ///**
 
