@@ -1,7 +1,5 @@
 # Windows 10 Master - Sysprep - USB 🦾
 
-Windows 10 Sysprep - LUSH
-
 Prerequisite :
 
 - Vmare Workstation 15.5 Pro
