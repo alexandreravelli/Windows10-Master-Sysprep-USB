@@ -23,5 +23,7 @@ Windows10debloater
 
 **///  3 - Sysprep - oobe  ///**
 
+https://github.com/alexandreravelli/lush-windows10/blob/master/unattended.xml
+
 - ``` sysprep.exe /oobe /generalize /unattend:unattend.xml /shutdown ```
 
