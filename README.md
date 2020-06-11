@@ -61,4 +61,5 @@ Prerequisite :
 
 - Copy install.wim to your USB drive - E:\sources
 
-
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/alexandreravelli/Windows10-Master-Sysprep-USB/archive/master.zip" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download alexandreravelli/Windows10-Master-Sysprep-USB on GitHub">Download</a>
