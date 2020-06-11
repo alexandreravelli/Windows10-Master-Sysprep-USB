@@ -28,3 +28,4 @@ Put unattend.xml to C:\Windows\System32\Sysprep
 
 - ``` sysprep.exe /oobe /generalize /unattend:unattend.xml /shutdown ```
 
+/// 4 - Dism ///
