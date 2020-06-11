@@ -1,4 +1,4 @@
-# LUSH - Windows 10 Master
+# LUSH - Windows 10 Master - Sysprep 
 Windows 10 Sysprep - LUSH
 
 
