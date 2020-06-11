@@ -6,6 +6,7 @@ Prerequisite :
 
 - vmare Workstation 15.5 Pro
 - Windows 10 ISO
+- Rufus
 
 
 **///  1 - Sysprep - Audit ///**
