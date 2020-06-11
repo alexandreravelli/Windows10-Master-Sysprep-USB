@@ -18,6 +18,5 @@ Install Windows 10 on a new computer - LUSH
 
 **///  3 - - Sysprep - oobe  ///**
 
-- ``` sysprep.exe /oobe ```
+- ``` sysprep.exe /oobe /generalize /unattend:unattend.xml /shutdown ```
 
-![3](https://user-images.githubusercontent.com/22911613/84350798-4cdc6380-abba-11ea-9524-2fc6f152a70e.jpg)
