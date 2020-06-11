@@ -11,7 +11,7 @@ Windows 10 Sysprep - LUSH
 
 ![2](https://user-images.githubusercontent.com/22911613/84348996-a5116680-abb6-11ea-891e-e64e0c6cac97.jpg)
 
-Choco
+Launch PowerShell - Choco
 
 - ``` Set-ExecutionPolicy AllSigned ```
 - ``` Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')) ```
