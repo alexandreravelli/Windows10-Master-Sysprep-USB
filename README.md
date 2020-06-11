@@ -33,7 +33,7 @@ Put unattend.xml to C:\Windows\System32\Sysprep
 
 - ``` sysprep.exe /oobe /generalize /unattend:unattend.xml /shutdown ```
 
-/// 4 - Dism ///
+**/// 4 - Dism ///**
 
 - VMware - Power On The Firmware 
 
@@ -46,6 +46,8 @@ Put unattend.xml to C:\Windows\System32\Sysprep
 ![11](https://user-images.githubusercontent.com/22911613/84358253-2b35a900-abc7-11ea-8d9d-8e11cd809d94.jpg)
 
 ![12](https://user-images.githubusercontent.com/22911613/84359154-84520c80-abc8-11ea-8e9f-4fb53ef5ddc9.jpg)
+
+**/// 4 - Windows 10 To USB ///**
 
 ![13](https://user-images.githubusercontent.com/22911613/84360478-6be2f180-abca-11ea-96dc-21e30a98730a.jpg)
 
