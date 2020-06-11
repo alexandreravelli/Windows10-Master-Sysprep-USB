@@ -16,7 +16,7 @@ Install Windows 10 on a new computer - LUSH
 - ``` choco install adobereader choco install googlechrome choco install 7zip.install choco install vlc choco install slack choco install bitwarden choco install google-backup-and-sync choco install spotify ```
 
 
-**///  3 - - Sysprep - oobe  ///**
+**///  3 - Sysprep - oobe  ///**
 
 - ``` sysprep.exe /oobe /generalize /unattend:unattend.xml /shutdown ```
 
