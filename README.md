@@ -24,7 +24,7 @@ https://github.com/alexandreravelli/lush-windows10/blob/master/unattended.xml
 
 Put unattended.xml to C:\Windows\System32\Sysprep
 
-![6](https://user-images.githubusercontent.com/22911613/84354750-b6ac3b80-abc1-11ea-971e-6c4cfd58ef05.jpg)
+![7](https://user-images.githubusercontent.com/22911613/84355106-5669c980-abc2-11ea-97a2-74a4f6a6845a.jpg)
 
 - ``` sysprep.exe /oobe /generalize /unattend:unattend.xml /shutdown ```
 
