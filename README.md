@@ -60,3 +60,10 @@ Prerequisite :
 ![12](https://user-images.githubusercontent.com/22911613/84361679-4ce55f00-abcc-11ea-8318-642d11987b65.jpg)
 
 - Copy install.wim to your USB drive - E:\sources
+
+**/// 5 - Put your USB to check the sysprep ///**
+
+![13](https://user-images.githubusercontent.com/22911613/84367765-fcbeca80-abd4-11ea-8f4f-a8da0083c1ac.jpg)
+![14](https://user-images.githubusercontent.com/22911613/84367777-00eae800-abd5-11ea-8b5d-48ee88691dad.jpg)
+![15](https://user-images.githubusercontent.com/22911613/84367786-034d4200-abd5-11ea-8acc-f3b980ee37af.jpg)
+
