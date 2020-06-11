@@ -18,9 +18,6 @@ Launch PowerShell - Choco
 - ``` choco install adobereader choco install googlechrome choco install 7zip.install choco install vlc choco install slack choco install bitwarden choco install google-backup-and-sync choco install spotify ```
 
 
-Windows10debloater
-
-
 **///  3 - Sysprep - oobe  ///**
 
 https://github.com/alexandreravelli/lush-windows10/blob/master/unattended.xml
