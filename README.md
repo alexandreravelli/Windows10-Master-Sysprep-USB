@@ -53,8 +53,8 @@ Put unattend.xml to C:\Windows\System32\Sysprep
 
 **/// 4 - Windows 10 To USB ///**
 
-Use RUFUS to copy windows10 ISO to USB - Format to NTFS
-If you select a Windows installation ISO, set the partition scheme to GPT partition scheme for UEFI computers and also set the file system to NTFS, Rufus will add everything required to allow booting NTFS partition from an UEFI system.
+- Use RUFUS to copy windows10 ISO to USB - Format to NTFS
+- If you select a Windows installation ISO, set the partition scheme to GPT partition scheme for UEFI computers and also set the file system to NTFS, Rufus will add everything required to allow booting NTFS partition from an UEFI system.
 
 ![13](https://user-images.githubusercontent.com/22911613/84360478-6be2f180-abca-11ea-96dc-21e30a98730a.jpg)
 
