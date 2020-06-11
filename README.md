@@ -17,7 +17,7 @@ Prerequisite :
 
 ![2](https://user-images.githubusercontent.com/22911613/84348996-a5116680-abb6-11ea-891e-e64e0c6cac97.jpg)
 
-Launch PowerShell - Choco
+- Launch PowerShell - Choco
 
 - ``` Set-ExecutionPolicy AllSigned ```
 - ``` Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')) ```
@@ -28,7 +28,7 @@ Launch PowerShell - Choco
 
 https://github.com/alexandreravelli/lush-windows10/blob/master/unattend.xml
 
-Put unattend.xml to C:\Windows\System32\Sysprep
+- Put unattend.xml to C:\Windows\System32\Sysprep
 
 ![7](https://user-images.githubusercontent.com/22911613/84355106-5669c980-abc2-11ea-97a2-74a4f6a6845a.jpg)
 
@@ -58,7 +58,7 @@ Put unattend.xml to C:\Windows\System32\Sysprep
 
 ![13](https://user-images.githubusercontent.com/22911613/84360478-6be2f180-abca-11ea-96dc-21e30a98730a.jpg)
 
-Copy install.wim to E:\sources
+- Copy install.wim to E:\sources
 
 ![12](https://user-images.githubusercontent.com/22911613/84361679-4ce55f00-abcc-11ea-8318-642d11987b65.jpg)
 
