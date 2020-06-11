@@ -3,4 +3,4 @@ Install Windows 10 on a new computer - LUSH
 
 
 **///  1 - Sysprep - Audit ///**
-sysprep.exe /audit
+- ``` sysprep.exe /audit ```
