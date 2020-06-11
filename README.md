@@ -1,6 +1,11 @@
 # LUSH - Windows 10 Master - Sysprep 
 Windows 10 Sysprep - LUSH
 
+Prerequisite :
+
+- vmare Workstation 15.5 Pro
+- Windows 10 ISO
+
 
 **///  1 - Sysprep - Audit ///**
 - ``` sysprep.exe /audit ```
