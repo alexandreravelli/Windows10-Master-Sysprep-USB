@@ -22,7 +22,7 @@ Launch PowerShell - Choco
 
 https://github.com/alexandreravelli/lush-windows10/blob/master/unattended.xml
 
-Put unattended.xml to C:\Windows\System32\Sysprep
+Put unattend.xml to C:\Windows\System32\Sysprep
 
 ![7](https://user-images.githubusercontent.com/22911613/84355106-5669c980-abc2-11ea-97a2-74a4f6a6845a.jpg)
 
