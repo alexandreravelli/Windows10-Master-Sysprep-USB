@@ -4,7 +4,7 @@ Windows 10 Sysprep - LUSH
 
 Prerequisite :
 
-- vmare Workstation 15.5 Pro
+- Vmare Workstation 15.5 Pro
 - Windows 10 ISO
 - Rufus
 
