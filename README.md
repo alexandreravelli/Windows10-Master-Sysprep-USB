@@ -30,7 +30,7 @@ Put unattend.xml to C:\Windows\System32\Sysprep
 
 /// 4 - Dism ///
 
--VMware - Power On The Firmware 
+- VMware - Power On The Firmware 
 
 ![10](https://user-images.githubusercontent.com/22911613/84355474-f889b180-abc2-11ea-8a90-2c7ae33b6939.jpg)
 
